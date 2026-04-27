@@ -1,4 +1,4 @@
-## Meu nome é André Marcos e sou um rstudante de Eng. de Software - 7°período.
+## Meu nome é André Marcos e sou um estudante de Eng. de Software - 7°período.
 
 ### Ferramentas e Tecnologias
 <div align="left">
