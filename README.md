@@ -23,10 +23,7 @@
 
 ---
 
-### Estatísticas
-![AndreST141 GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreST141&show_icons=true&theme=dracula)
-
----
-
-### Linguagens mais utilizadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreST141&layout=compact&theme=dracula)
+### Estatísticas e Linguagens
+| Estatísticas do GitHub | Linguagens mais usadas |
+| :--- | :--- |
+| ![AndreST141 GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreST141&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreST141&layout=compact&theme=dracula) |
