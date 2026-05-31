@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
+---
+
 ### Contato
 <div align="left">
   <a href="https://discord.com/users/andrest8247" target="_blank">
@@ -20,10 +22,3 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
 </div>
-
----
-
-### Estatísticas e Linguagens
-| Estatísticas do GitHub | Linguagens mais usadas |
-| :--- | :--- |
-| ![AndreST141 GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreST141&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreST141&layout=compact&theme=dracula) |
